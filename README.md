@@ -6,7 +6,7 @@ The message is finally transmitted over the wireless network to the recipient.
 I used textMagic from gitHub along with python to run my program. You have to have Python 2.6 or higher in order to run the program. 
 # sms.py
 # Sends sms message to any cell phone using gmail smtp gateway
-# Written by Alex Le
+
 
 import smtplib
 
